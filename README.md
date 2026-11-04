@@ -4,7 +4,7 @@ Skills I use with AI agents to design conversational and voice experiences: pers
 
 ## Personality Controls
 
-![The ten personality controls](.github/assets/personality-controls.png) <!-- [PENDIENTE] export the panel illustration -->
+![The ten personality controls](.github/assets/personality-controls.png)
 
 Helps your agent design how another agent presents itself, talks and acts, using **10 controls**: Identity, Purpose, Story, Audience & relationship, Goals, Character, Tone, Voice, Values & limits, Conversation habits. Each control has a fill-in sentence, a test prompt and an expected result, so the design can be checked in a real conversation and then compiled into a personality prompt.
 
